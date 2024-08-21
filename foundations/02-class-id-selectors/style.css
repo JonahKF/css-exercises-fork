@@ -10,9 +10,8 @@
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
 
-.cooler {
+.adjust-font-size {
     font-size: 24px;
-    font: bold;
 }
 
 #second-element {
@@ -22,6 +21,5 @@
 
 #fourth-element {
     background-color: #15c62a;
-    font-size: 24px;
-    font: bold;
+    font-weight: bold;
 }
